@@ -22,6 +22,7 @@ A Streamlit application for generating original movie plots based on selected ge
    ```bash
    streamlit run movie_plot_generator.py
    ```
+3. **Open the application in web browser (the URL provided by streamlit run command)**
 
 ## 📖 How to Use
 
